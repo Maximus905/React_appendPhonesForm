@@ -1,0 +1,7 @@
+export const APPEND_PHONES = 'APPEND_PHONES'
+export const LOADING_DATA = 'LOADING_DATA'
+export const REQUEST_DATA = 'REQUEST_DATA'
+export const RECEIVE_DATA = 'RECEIVE_DATA'
+export const UPDATE_DB = 'UPDATE_DB'
+export const DB_UPDATING = 'DB_UPDATING'
+export const DB_UPDATED = 'DB_UPDATED'

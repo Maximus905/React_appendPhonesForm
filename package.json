@@ -2,10 +2,16 @@
   "name": "phone-append-form",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "check-types": "^10.1.2",
+    "classnames": "^2.2.6",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "reactstrap": "^8.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
